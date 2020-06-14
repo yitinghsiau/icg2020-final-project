@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EndGameUI.cs">
+    <Files>
+      <File FileName="Assets/Scripts/carControl.cs" Line="24" Column="53" />
+      <File FileName="Assets/Scripts/magicBoxes.cs" Line="29" Column="77" />
+      <File FileName="Assets/Scripts/StartUI.cs" Line="141" Column="1" />
+      <File FileName="Assets/Scripts/inGameUI.cs" Line="137" Column="86" />
+      <File FileName="Assets/Scripts/EndGameUI.cs" Line="14" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b2a6dab7-c08a-4d98-970e-7d58b713fcc1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
